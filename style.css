@@ -1,0 +1,67 @@
+body{
+    background-color: #9e61a8;
+    text-align: justify;
+    color: black;
+    display:flex ;
+}
+.container{
+    text-align: justify;
+    display: flex;
+}
+img{
+    text-align: center;
+
+}
+.arroz{
+    color: rgb(12, 12, 12);
+    text-align: justify;
+}
+.bach{
+    background-color: #966c9c;
+    padding: 15px;
+    text-align: center;
+    
+
+}
+.cards{
+    display: flex;
+    background-color: #94649e;
+    margin-left: 310px;
+    margin-right: 310px;
+    border-radius: 10px;
+    border: 50px;
+
+
+}
+.btn{
+    margin-left: 260px;
+    margin-right: 260px;
+
+}
+.card-text{
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.card-body{
+    background-color: #a37ea7;
+}
+.card-title{
+    text-align: center;
+}
+h6{
+    text-align: center;
+    color: black;
+    margin: 90px;
+    background-color: #a37ea7;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    background-color:white;
+    color: rgb(120, 86, 124);
+    padding: 15px;
+    margin: 50px;
+    text-align: center;
+}
